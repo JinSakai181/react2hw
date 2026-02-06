@@ -2,8 +2,8 @@ body {
   background-color: #0d192c;
   display: flex;
   justify-content: center;
-  align-items: flex-start; /* ზედა ნაწილიდან დაწყება */
+  align-items: flex-start;
   overflow-y: hidden;
-  height: 100vh; /* აუცილებელია Flexbox ვერტიკალური ცენტრისთვის */
-  padding-top: 50px; /* რამდენად მაღლა გინდა */
+  height: 100vh;
+  padding-top: 50px; 
 }
